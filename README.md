@@ -26,3 +26,7 @@ Take or select a photo to see if the app detects it as food or not.
 SeeFood-CoreML is a great introduction to CoreML and image classification in iOS. It demonstrates how machine learning models can be integrated into mobile applications to provide fun and interactive features.
 
 
+
+https://github.com/user-attachments/assets/34bf0335-a01d-4d54-8a91-208675982c4c
+
+
